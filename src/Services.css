@@ -1,0 +1,49 @@
+.BACK_COLOR{
+    background-color: rgb(242, 245, 247);
+    width: 100%;
+    height: auto;
+}
+#SERVICES_NAME{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 40px;
+}
+#LOREM{
+    font-size: 16px;
+}
+#ICON{ 
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+   
+}
+#ICON:hover{
+    color: red;
+}
+#CARD_TITLE{
+    text-align: center;
+}
+#CARD_DATA:hover{
+    border: 1px solid red ;
+}
+.COUNETR_SECTION{
+    background-color: rgb(114, 114, 183);
+    width: 100%;
+    height: auto;
+    padding-top: 60px;
+}
+#ICON1{
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+#NAME1{
+    color: white;
+    text-align: center;
+}
+#ICON1:hover{
+    color: red;
+}
+#ICON_COUNT{
+    color: white;
+}

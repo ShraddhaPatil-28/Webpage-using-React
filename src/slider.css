@@ -1,0 +1,5 @@
+.BACKIMG{
+    background-image: url('./First_img.jpeg');
+    width: 100%;
+    height: 300px;
+}

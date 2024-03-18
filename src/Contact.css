@@ -1,0 +1,33 @@
+.BACKGROUNG_COLOR{
+    background-color: rgb(242, 245, 247);
+    width: 100%;
+    height: auto;
+    padding-top: 60px;
+}
+.CONTACT_NAME{
+    text-align: center;
+    font-size: 25px;
+}
+#LOREM{
+    font-size: 16px;
+}
+#CARD_DATA{
+    padding: 20px;
+}
+#LOGO{
+    font-size: 30px;
+    padding: 10px;
+    /* color: rgb(59, 59, 211); */
+}
+.CARD_IMG{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.CARD_IMG:hover{
+    box-shadow: 0 30px 40px 0 rgba(0,0,0,0.2);
+
+}
+.END{
+    text-align: center;
+    padding-top: 50px;
+}
